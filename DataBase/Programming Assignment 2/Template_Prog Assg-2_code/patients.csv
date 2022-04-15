@@ -1,0 +1,22 @@
+PatientId,FirstName,LastName,Gender,Age,Phone,BloodGroup,Address,Email
+1,Anders,Olsson,M,56,757842187,A-,Carlstadgatan 23,olsad@yahoo.com
+2,Yohansson,Gunnar,M,67,742893988,B+,Storstad 12,gunyn@gmail.com
+3,Carolin,Angelo,F,44,712417657,O-,Gamlastan 123,agncar@gmail.com
+4,John,Smit,T,47,712417658,AB+,Gamlastan 123,jonsm@gmail.com
+5,Adam,Carlo,M,78,740974798,O-,Sköndalsvagen 12,crls@hotmail.com
+6,Sone ,Melisa,F,24,743289858,B-,Vällingby Vägen 34,mson@gmail.com
+7,Abdu ,Kiar,M,39,787943167,B+,Vingåkergatan 236,kirab@yahoo.com
+8,Tedros,Angelo,M,54,952378979,AB-,Stockholmsgränd 579237,ang23td@gmail.com
+9,Bambino,Angelo,M,46,82378899,O+,Gamlavägen 4238,bamang@gmail.com
+10,Rachel,Gambo,F,62,734627978,AB+,Hanningevägen,gamrac@hotmail.com
+11,Susu,Jimy,F,42,3259898233,A+,Drottningsgatan 529090,jimsus@hotmail.com
+12,Kaleb ,Jonay,M,26,2907523787,B-,Kings alley 2389,kbal32@gmail.com
+13,John ,Carlo,M,36,74265898,O+,Gustavvasa 45,carjg@yahoo.com
+14,Angelina ,Joly,F,55,28379867423,A+,America alley 76,ajng@gmail.com
+15,Carlos,Tevez,M,40,428390753,AB-,Argentinagatan 523,teacd@gmail.com
+16,Alhagi ,Diouf,M,45,5458985345,O+,Morocco gatan43,alhagi@gmail.com
+17,Kim,Jong Um,M,44,5398523879,B-,Koreagatan,kfaksj@gmail.com
+18,Donald ,Angelo,M,55,238798238,A-,America gatan ,fjkljfds@gmail.com
+19,Tina,Carlos,F,34,233897423,A+,Southgatan dfklfdas@gmail.com,
+20,Ribeka,Angelo,F,67,52389080,B+,Rbeca gatan 23,fdsfjla@gmail.com
+21,Emilia ,Dibo,F,43,5.23895E+11,O-,Eiliosvägen,kfsah@gmail.com

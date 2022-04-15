@@ -1,0 +1,22 @@
+BankId,Name,Phone,Address,employeeId,salaryCode
+1,swedbank,742378978,Livetsgatan 23,3,3
+2,swedbank,8972937897,Univershitetsgatan 43,8,4
+3,swedbank,5237875423,Kungsgatan 53,4,5
+4,nordia,234-423-423,Stockholmsvägen 67,6,6
+5,swedbank,087-232-4244,Umeogatan 87,11,7
+6,nordia,092-4232-522,Vällingbygatan 32,8,8
+7,swedbank,94212187,Karolinska vägen,9,9
+8,handles,42389978,Bättringsgatan 454,10,10
+9,swedbank,4237687887,Skanstul 438,18,11
+10,handles,4237887789,Gullmarsplan,10,12
+11,nordia,744899788,Skärholmen 342,10,13
+12,swedbank,080-484-42389,Södragatan,16,14
+13,swedbank,23879879890,Drottningsgatan,13,15
+14,nordia,2378900987,Bollegatan 34,14,16
+15,nordia,42378797947,Lundsgatan 43,15,17
+16,swedbank,43978998423,Allmän vägen,16,18
+17,swedbank,3.45E+12,Gamlastan 424,16,19
+18,nordia,2354215235,Travel vägen 21,21,20
+19,swedbank,7.89E+11,Norwey 67,18,21
+20,swedbank,6546546744,Canada vaäen,8,22
+21,nordia,65636346,Rausanevägen 53,4,23

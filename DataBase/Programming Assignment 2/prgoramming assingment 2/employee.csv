@@ -1,0 +1,22 @@
+employeeId,FirstName,LastName,Gender,Age,Phone,Address,Email,salaryAmount
+1,Anders,Olsson,M,56,757842187,Carlstadgatan 23,olsad@yahoo.com,2000
+2,Yohansson,Gunnar,M,67,742893988,Storstad 12,gunyn@gmail.com,4300
+3,Carolin,Angelo,F,44,712417657,Gamlastan 123,agncar@gmail.com,3452
+4,John,Smit,T,47,712417658,Gamlastan 123,jonsm@gmail.com,3567
+5,Adam,Carlo,M,78,740974798,Sköndalsvagen 12,crls@hotmail.com,4200
+6,Sone ,Melisa,F,24,743289858,Vällingby Vägen 34,mson@gmail.com,5000
+7,Abdu ,Kiar,M,39,787943167,Vingåkergatan 236,kirab@yahoo.com,3000
+8,Tedros,Angelo,M,54,952378979,Stockholmsgränd 579237,ang23td@gmail.com,5000
+9,Bambino,Angelo,M,46,82378899,Gamlavägen 4238,bamang@gmail.com,3400
+10,Rachel,Gambo,F,62,734627978,Hanningevägen,gamrac@hotmail.com,4000
+11,Susu,Jimy,F,42,3259898233,Drottningsgatan 529090,jimsus@hotmail.com,2000
+12,Kaleb ,Jonay,M,26,2907523787,Kings alley 2389,kbal32@gmail.com,3000
+13,John ,Carlo,M,36,74265898,Gustavvasa 45,carjg@yahoo.com,2300
+14,Angelina ,Joly,F,55,28379867423,America alley 76,ajng@gmail.com,4000
+15,Carlos,Tevez,M,40,428390753,Argentinagatan 523,teacd@gmail.com,4000
+16,Alhagi ,Diouf,M,45,5458985345,Morocco gatan43,alhagi@gmail.com,5400
+17,Kim,Jong Um,M,44,5398523879,Koreagatan,kfaksj@gmail.com,3000
+18,Donald ,Angelo,M,55,238798238,America gatan ,fjkljfds@gmail.com,23000
+19,Tina,Carlos,F,34,233897423,Southgatan dfklfdas@gmail.com,,3000
+20,Ribeka,Angelo,F,67,52389080,Rbeca gatan 23,fdsfjla@gmail.com,4000
+21,Emilia ,Dibo,F,43,5.24E+11,Eiliosvägen,kfsah@gmail.com,4000
